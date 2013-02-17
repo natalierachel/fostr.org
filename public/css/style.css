@@ -737,7 +737,7 @@ input[type="hidden"] {
 .radio input[type="radio"],
 .checkbox input[type="checkbox"] {
   float: left;
-  margin-left: -18px;
+  margin-left: -5px;
 }
 .controls > .radio:first-child,
 .controls > .checkbox:first-child {
@@ -1159,7 +1159,7 @@ select:focus:required:invalid:focus {
 .form-inline .checkbox input[type="checkbox"] {
   float: left;
   margin-left: 0;
-  margin-right: 3px;
+  margin-right: 3px 5px;
 }
 .control-group {
   margin-bottom: 9px;
